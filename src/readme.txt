@@ -8,4 +8,8 @@ Examen COD 2Av.
 
 4.Una vez eliminado el commit, volvemos con checkout a la rama main y hacemos merge de datos e interfaz.
 
-5.Con git tag -a v1.0 creamos la etiqueta de versión
+5.Con git tag -a v1.0 creamos la etiqueta de versión.
+
+6.Hacemos push y creamos una release en el repositorio con la etiqueta v1.0.
+
+7.Como el git ignore no esta incluido hago un ammend para solucionarlo.
