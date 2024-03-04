@@ -13,7 +13,3 @@ Examen COD 2Av.
 6.Hacemos push y creamos una release en el repositorio con la etiqueta v1.0.
 
 7.Como el git ignore no esta incluido hago un ammend para solucionarlo.
-
-8.Una vez añadido hacemos el push y sacamos la release final.
-
-9.Hacemos push a la rama readme como rama independiente.
